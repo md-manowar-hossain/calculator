@@ -14,8 +14,8 @@ body {
 }
 
 .calc_container {
-  width: 450px;
-  height: 800px;
+  width: 350px;
+  height: 700px;
   margin: auto;
   margin-top: 2rem;
   display: flex;
